@@ -131,4 +131,7 @@ a,
 .call-to-action {
     color: white;
     background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
