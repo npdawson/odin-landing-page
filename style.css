@@ -106,3 +106,18 @@ a,
 .card p {
     margin: 0;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.attribution {
+    font-weight: bolder;
+}
