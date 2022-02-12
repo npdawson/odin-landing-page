@@ -127,3 +127,8 @@ a,
     align-self: flex-end;
     margin: 0 50px;
 }
+
+.call-to-action {
+    color: white;
+    background-color: #3882F6;
+}
