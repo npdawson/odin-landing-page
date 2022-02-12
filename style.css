@@ -131,6 +131,9 @@ a,
 .call-to-action {
     color: white;
     background-color: #3882F6;
+    margin: 100px 125px;
+    padding: 50px 100px;
+    border-radius: 8px;
     display: flex;
     justify-content: space-between;
     align-items: center;
