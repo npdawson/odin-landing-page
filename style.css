@@ -138,6 +138,13 @@ a,
     justify-content: space-between;
     align-items: center;
 }
+
+.call-to-action h2,
+.call-to-action p {
+    margin: 0;
+    padding: 0;
+}
+
 .call-to-action .sign-up {
     border: 2px solid white;
     height: 20px;
