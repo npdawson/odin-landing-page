@@ -91,3 +91,7 @@ a,
     justify-content: center;
     gap: 52px;
 }
+
+.card {
+    max-width: 200px;
+}
