@@ -122,4 +122,5 @@ a,
 
 .attribution {
     font-weight: bolder;
+    align-self: flex-end;
 }
