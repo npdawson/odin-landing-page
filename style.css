@@ -109,6 +109,7 @@ a,
 
 .quote-section {
     background-color: #E5E7EB;
+    padding: 100px 205px;
     display: flex;
     flex-direction: column;
 }
@@ -118,9 +119,11 @@ a,
     font-style: italic;
     font-weight: lighter;
     color: #1F2937;
+    margin: 0;
 }
 
 .attribution {
     font-weight: bolder;
     align-self: flex-end;
+    margin: 0 50px;
 }
