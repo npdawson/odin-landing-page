@@ -85,3 +85,9 @@ a,
     color: #1F2937;
     padding: 32px;
 }
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
